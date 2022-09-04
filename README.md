@@ -3,8 +3,7 @@ Cursando:  Analise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/AlexCampos30">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexCampos30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCampos30&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlexCampos30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +18,5 @@ Cursando:  Analise e Desenvolvimento de Sistemas
 
   <a href="https://www.instagram.com/allex_campos30/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-campos-programador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/AlexCampos30/AlexCampos30/blob/output/github-contribution-grid-snake.svg)
  
  </div>
